@@ -1,0 +1,109 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="4a8dabd5-7e2a-4935-8232-45d97c2d019e" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Kunal-Dsa.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/array/O10_array.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/array/O11_array.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/array/O12_array.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/array/O13_array.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/array/O14_array.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/array/O16_array.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/array/O17_array.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/array/O18_array.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/array/O19_array.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/array/O1_easy.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/array/O22_array.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/array/O23_array.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/array/O24_array.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/array/O26_array.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/array/O2_easy.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/array/O3_easy.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/array/O4_easy.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/array/O5_easy.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/array/O6_easy.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/array/O7_array.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/array/O8_array.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/array/O9_array.java" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectId" id="2P5HGz5vgqonwVrzNTR4LVRv4ls" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "settings.editor.selected.configurable": "preferences.pluginManager"
+  }
+}]]></component>
+  <component name="RunManager">
+    <configuration name="O10_array" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="array.O10_array" />
+      <module name="Kunal-Dsa" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="array.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.O10_array" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="4a8dabd5-7e2a-4935-8232-45d97c2d019e" name="Changes" comment="" />
+      <created>1682739934475</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1682739934475</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+</project>
