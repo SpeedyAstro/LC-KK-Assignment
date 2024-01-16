@@ -1,36 +1,18 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
   <component name="ChangeListManager">
     <list default="true" id="4a8dabd5-7e2a-4935-8232-45d97c2d019e" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Kunal-Dsa.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/array/O10_array.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/array/O11_array.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/array/O12_array.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/array/O13_array.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/array/O14_array.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/array/O16_array.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/array/O17_array.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/array/O18_array.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/array/O19_array.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/array/O1_easy.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/array/O22_array.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/array/O23_array.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/array/O24_array.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/array/O26_array.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/array/O2_easy.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/array/O3_easy.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/array/O4_easy.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/array/O5_easy.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/array/O6_easy.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/array/O7_array.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/array/O8_array.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/array/O9_array.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/array/medium/O1_SpiralMatrix.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/array/medium/O2_SpiralMatrixII.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/array/medium/O3_SpiralMatrixIII.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/array/medium/O4_SetMatrixZero.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/array/medium/O5_ProductOfArrayExceptSelf.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/array/medium/O6_CeilingAndFloor.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -50,8 +32,13 @@
   <component name="MarkdownSettingsMigration">
     <option name="stateVersion" value="1" />
   </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 3
+}</component>
   <component name="ProjectId" id="2P5HGz5vgqonwVrzNTR4LVRv4ls" />
-  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
@@ -61,7 +48,16 @@
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "SHARE_PROJECT_CONFIGURATION_FILES": "true",
-    "settings.editor.selected.configurable": "preferences.pluginManager"
+    "WebServerToolWindowFactoryState": "false",
+    "git-widget-placeholder": "main",
+    "last_opened_file_path": "C:/Users/pande/Downloads/aat/Cinemaxify I",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
+    "settings.editor.selected.configurable": "reference.settingsdialog.IDE.editor.colors",
+    "vue.rearranger.settings.migration": "true"
   }
 }]]></component>
   <component name="RunManager">
@@ -92,18 +88,41 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1682739934475</updated>
+      <workItem from="1705205884992" duration="5158000" />
+      <workItem from="1705238672668" duration="14000" />
+      <workItem from="1705391212930" duration="800000" />
+      <workItem from="1705392844681" duration="2232000" />
     </task>
     <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
     <option name="TAB_STATES">
       <map>
         <entry key="MAIN">
           <value>
-            <State />
+            <State>
+              <option name="FILTERS">
+                <map>
+                  <entry key="branch">
+                    <value>
+                      <list>
+                        <option value="main" />
+                      </list>
+                    </value>
+                  </entry>
+                </map>
+              </option>
+            </State>
           </value>
         </entry>
       </map>
     </option>
+  </component>
+  <component name="XSLT-Support.FileAssociations.UIState">
+    <expand />
+    <select />
   </component>
 </project>
