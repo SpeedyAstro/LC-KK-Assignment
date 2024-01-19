@@ -5,13 +5,10 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="4a8dabd5-7e2a-4935-8232-45d97c2d019e" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/array/medium/O1_SpiralMatrix.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/array/medium/O2_SpiralMatrixII.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/array/medium/O3_SpiralMatrixIII.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/array/medium/O4_SetMatrixZero.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/array/medium/O5_ProductOfArrayExceptSelf.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/array/medium/O6_CeilingAndFloor.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/array/medium/O8_RotateArray.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/searching/easy/O1_sqrt.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/searching/easy/O2_GuessNumber.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/searching/easy/O3_FindBadVersion.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -50,7 +47,7 @@
     "SHARE_PROJECT_CONFIGURATION_FILES": "true",
     "WebServerToolWindowFactoryState": "false",
     "git-widget-placeholder": "main",
-    "last_opened_file_path": "C:/Users/pande/Downloads/aat/Cinemaxify I",
+    "last_opened_file_path": "C:/Users/pande/Downloads/aat/EventRegistration I",
     "node.js.detected.package.eslint": "true",
     "node.js.detected.package.tslint": "true",
     "node.js.selected.package.eslint": "(autodetect)",
@@ -91,7 +88,11 @@
       <workItem from="1705205884992" duration="5158000" />
       <workItem from="1705238672668" duration="14000" />
       <workItem from="1705391212930" duration="800000" />
-      <workItem from="1705392844681" duration="2232000" />
+      <workItem from="1705392844681" duration="4084000" />
+      <workItem from="1705459541235" duration="723000" />
+      <workItem from="1705466358464" duration="1738000" />
+      <workItem from="1705496662313" duration="32000" />
+      <workItem from="1705586234819" duration="875000" />
     </task>
     <servers />
   </component>
