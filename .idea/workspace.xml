@@ -5,11 +5,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="4a8dabd5-7e2a-4935-8232-45d97c2d019e" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/searching/easy/O12_IntersectionOfArray.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/searching/easy/O13_IntersectionArrayII.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/searching/easy/O15_CheckIfNAndItsDouble.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/searching/easy/O16_SpecialArray.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/searching/easy/O17_BinarySearch.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/searching/medium/O1_FloorAndCeilingDuplicates.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/searching/medium/O2_SingEleInSortedArry.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -116,7 +113,7 @@
       <workItem from="1706007447853" duration="1902000" />
       <workItem from="1706021525700" duration="1788000" />
       <workItem from="1706077305527" duration="2923000" />
-      <workItem from="1706164544203" duration="335000" />
+      <workItem from="1706164544203" duration="4285000" />
     </task>
     <servers />
   </component>
