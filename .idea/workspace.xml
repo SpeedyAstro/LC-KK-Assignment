@@ -5,7 +5,12 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="4a8dabd5-7e2a-4935-8232-45d97c2d019e" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/searching/easy/O11_FindNegativeSortedMatrix.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/searching/easy/O12_IntersectionOfArray.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/searching/easy/O13_IntersectionArrayII.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/searching/easy/O15_CheckIfNAndItsDouble.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/searching/easy/O16_SpecialArray.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/searching/easy/O17_BinarySearch.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -36,24 +41,24 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "RunOnceActivity.OpenProjectViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
-    "WebServerToolWindowFactoryState": "false",
-    "git-widget-placeholder": "main",
-    "last_opened_file_path": "C:/Users/pande/Downloads/aat/TaxEase Application I",
-    "node.js.detected.package.eslint": "true",
-    "node.js.detected.package.tslint": "true",
-    "node.js.selected.package.eslint": "(autodetect)",
-    "node.js.selected.package.tslint": "(autodetect)",
-    "nodejs_package_manager_path": "npm",
-    "settings.editor.selected.configurable": "reference.settingsdialog.IDE.editor.colors",
-    "vue.rearranger.settings.migration": "true"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
+    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;main&quot;,
+    &quot;last_opened_file_path&quot;: &quot;C:/Users/pande/Downloads/aat/test/Codingninjas&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;reference.settingsdialog.IDE.editor.colors&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
   }
-}]]></component>
-  <component name="RunManager">
+}</component>
+  <component name="RunManager" selected="Application.O12_IntersectionOfArray">
     <configuration name="O10_array" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="array.O10_array" />
       <module name="Kunal-Dsa" />
@@ -67,8 +72,22 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="O12_IntersectionOfArray" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="searching.easy.O12_IntersectionOfArray" />
+      <module name="Kunal-Dsa" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="searching.easy.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.O12_IntersectionOfArray" />
         <item itemvalue="Application.O10_array" />
       </list>
     </recent_temporary>
@@ -94,6 +113,10 @@
       <workItem from="1705808721484" duration="693000" />
       <workItem from="1705840734589" duration="8000" />
       <workItem from="1706000997703" duration="1195000" />
+      <workItem from="1706007447853" duration="1902000" />
+      <workItem from="1706021525700" duration="1788000" />
+      <workItem from="1706077305527" duration="2923000" />
+      <workItem from="1706164544203" duration="335000" />
     </task>
     <servers />
   </component>
