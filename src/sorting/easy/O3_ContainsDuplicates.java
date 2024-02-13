@@ -1,0 +1,15 @@
+package sorting.easy;
+
+import java.util.Arrays;
+import java.util.HashSet;
+
+public class O3_ContainsDuplicates {
+    public boolean containsDuplicate(int[] nums) {
+        HashSet<Integer> set = new HashSet<>();
+        for(int ele : nums){
+            if (set.contains(ele)) return true;
+            set.add(ele);
+        }
+        return false;
+    }
+}
