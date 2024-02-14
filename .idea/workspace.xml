@@ -5,14 +5,12 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="4a8dabd5-7e2a-4935-8232-45d97c2d019e" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/sorting/easy/O1_MergeSortedArray.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/sorting/easy/O2_MajorityElement.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/sorting/easy/O3_ContainsDuplicates.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/sorting/easy/O4_MissingNumber.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/sorting/easy/O5_IntersectionOfTwoArray.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/sorting/easy/O6_IntersectionofTwoArraysII.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/sorting/easy/O7_ThirdMaximumNumber.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/sorting/easy/O8_AssignCookies.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/sorting/easy/O10_MaximumProductofThreeNumbers.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/sorting/easy/O11_SortArrayByParity.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/sorting/easy/O12_SortArrayByParityII.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/sorting/easy/O13_LargestPerimeterTriangle.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/sorting/easy/O14_SquaresOfSortedArray.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/sorting/easy/O15_HeightChecker.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -51,7 +49,7 @@
     &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
     &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
     &quot;git-widget-placeholder&quot;: &quot;main&quot;,
-    &quot;last_opened_file_path&quot;: &quot;C:/Users/pande/Downloads/aat/CarService_part2&quot;,
+    &quot;last_opened_file_path&quot;: &quot;C:/Users/pande/Downloads/aat/Payment 3&quot;,
     &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
     &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
     &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
@@ -162,7 +160,9 @@
       <workItem from="1706846106630" duration="5458000" />
       <workItem from="1707733224173" duration="748000" />
       <workItem from="1707751535227" duration="3308000" />
-      <workItem from="1707797686367" duration="7244000" />
+      <workItem from="1707797686367" duration="11246000" />
+      <workItem from="1707829528541" duration="15000" />
+      <workItem from="1707885383954" duration="5181000" />
     </task>
     <servers />
   </component>
