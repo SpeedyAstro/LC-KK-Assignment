@@ -3,9 +3,7 @@ package sorting.easy;
 public class O15_HeightChecker {
     public int heightChecker(int[] heights) {
         int[] expected = new int[heights.length];
-        for(int i=0; i<heights.length; i++){
-            expected[i] = heights[i];
-        }
+        System.arraycopy(heights, 0, expected, 0, heights.length);
         for(int i=0; i<heights.length; i++){
             for(int j=i+1; j<heights.length; j++){
                 if(expected[i] > expected[j]){
