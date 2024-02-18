@@ -1,4 +1,4 @@
-package array;
+package array.easy;
 //https://leetcode.com/problems/cells-with-odd-values-in-a-matrix/description/
 public class O14_array {
     public int oddCells(int m, int n, int[][] indices) {

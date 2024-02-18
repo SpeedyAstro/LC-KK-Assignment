@@ -1,4 +1,4 @@
-package array;
+package array.easy;
 //https://leetcode.com/problems/find-the-highest-altitude/description/
 public class O12_array {
     public int largestAltitude(int[] gain) {

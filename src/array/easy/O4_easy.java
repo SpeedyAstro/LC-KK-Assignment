@@ -1,4 +1,4 @@
-package array;
+package array.easy;
 //https://leetcode.com/problems/richest-customer-wealth/submissions/941373989/
 public class O4_easy {
     public int maximumWealth(int[][] accounts) {

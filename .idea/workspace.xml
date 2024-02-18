@@ -5,20 +5,17 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="4a8dabd5-7e2a-4935-8232-45d97c2d019e" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/sorting/easy/O19_SortIntegersbyTheNumberof1Bits.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/sorting/easy/O20_NumberSmallerThanCurrent.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/sorting/easy/O21_MaxProduct.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/sorting/easy/O22_AverageSalary.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/sorting/easy/O23_Make2ArrayEqual.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/sorting/easy/O24_ArithmeticProgression.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/sorting/easy/O25_SortArraybyIncreasingFrequency.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/sorting/easy/O26_SpecialArrayWithXElementsGreaterThanorEqualX.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/sorting/easy/O27_FindAllNumbersDisappearedInAnArray.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/sorting/easy/O28_SetMismatch.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/sorting/easy/O29_TwoSum.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/sorting/medium/O1_3Sum.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/sorting/medium/O2_3SumClosest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/sorting/medium/O3_4Sum.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/sorting/medium/O4_GroupAnagrams.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/sorting/medium/O5_MergeIntervals.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/sorting/medium/O6_SortColors.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/array/easy/O11_array.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/array/easy/O11_array.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/array/easy/O12_array.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/array/easy/O12_array.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/array/easy/O13_array.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/array/easy/O13_array.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/array/easy/O14_array.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/array/easy/O14_array.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/array/easy/O4_easy.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/array/easy/O4_easy.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/array/easy/O5_easy.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/array/easy/O5_easy.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -57,7 +54,7 @@
     &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
     &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
     &quot;git-widget-placeholder&quot;: &quot;main&quot;,
-    &quot;last_opened_file_path&quot;: &quot;C:/Users/pande/Downloads/aat/test/Website&quot;,
+    &quot;last_opened_file_path&quot;: &quot;C:/Users/pande/Downloads/aat/TastyTrove&quot;,
     &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
     &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
     &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
@@ -190,7 +187,11 @@
       <workItem from="1707995171028" duration="3532000" />
       <workItem from="1708089184359" duration="16000" />
       <workItem from="1708132422160" duration="734000" />
-      <workItem from="1708135600455" duration="11771000" />
+      <workItem from="1708135600455" duration="13984000" />
+      <workItem from="1708185339609" duration="3028000" />
+      <workItem from="1708222058574" duration="1321000" />
+      <workItem from="1708258490801" duration="1945000" />
+      <workItem from="1708265216854" duration="6963000" />
     </task>
     <servers />
   </component>

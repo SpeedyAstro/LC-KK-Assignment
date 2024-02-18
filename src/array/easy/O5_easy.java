@@ -1,4 +1,4 @@
-package array;
+package array.easy;
 //https://leetcode.com/problems/shuffle-the-array/description/
 public class O5_easy {
     public int[] shuffle(int[] nums, int n) {
