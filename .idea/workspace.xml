@@ -5,17 +5,9 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="4a8dabd5-7e2a-4935-8232-45d97c2d019e" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/sorting/medium/O3_4Sum.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/sorting/medium/O4_GroupAnagrams.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/sorting/medium/O5_MergeIntervals.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/sorting/medium/O6_SortColors.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/sorting/medium/O7_LargestNumber.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/sorting/medium/O8_KthLargestElementinanArray.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/array/easy/O11_array.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/array/easy/O11_array.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/array/easy/O12_array.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/array/easy/O12_array.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/array/easy/O13_array.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/array/easy/O13_array.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/array/easy/O14_array.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/array/easy/O14_array.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/array/easy/O4_easy.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/array/easy/O4_easy.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/array/easy/O5_easy.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/array/easy/O5_easy.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -192,6 +184,8 @@
       <workItem from="1708222058574" duration="1321000" />
       <workItem from="1708258490801" duration="1945000" />
       <workItem from="1708265216854" duration="6963000" />
+      <workItem from="1708277031432" duration="18000" />
+      <workItem from="1708404229175" duration="5943000" />
     </task>
     <servers />
   </component>
