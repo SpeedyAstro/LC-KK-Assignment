@@ -5,8 +5,17 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="4a8dabd5-7e2a-4935-8232-45d97c2d019e" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/sorting/medium/O7_LargestNumber.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/sorting/medium/O8_KthLargestElementinanArray.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/string/easy/O10_NumberofStringsThatAppearasSubstringsinWord.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/string/easy/O11_RobotReturntoOrigin.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/string/easy/O1_DefanginganIPAddress.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/string/easy/O2_ShuffleString.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/string/easy/O3_GoalParserInterpretation.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/string/easy/O4_CountItemsMatchingaRule.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/string/easy/O5_SortingtheSentence.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/string/easy/O6_CheckIfTwoStringArraysareEquivalent.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/string/easy/O7_ToLowerCase.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/string/easy/O8_DetermineifStringHalvesAreAlike.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/string/easy/O9_DecryptStringfromAlphabettoIntegerMapping.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -39,50 +48,24 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
-    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
-    &quot;git-widget-placeholder&quot;: &quot;main&quot;,
-    &quot;last_opened_file_path&quot;: &quot;C:/Users/pande/Downloads/aat/TastyTrove&quot;,
-    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
-    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
-    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
-    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
-    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
-    &quot;settings.editor.selected.configurable&quot;: &quot;preferences.lookFeel&quot;,
-    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "WebServerToolWindowFactoryState": "false",
+    "git-widget-placeholder": "main",
+    "last_opened_file_path": "C:/Users/pande/Downloads/aat/expense_manager_solution",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
+    "settings.editor.selected.configurable": "preferences.lookFeel",
+    "vue.rearranger.settings.migration": "true"
   }
-}</component>
-  <component name="RunManager" selected="Application.O21_MaxProduct">
-    <configuration name="O10_array" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="array.O10_array" />
-      <module name="Kunal-Dsa" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="array.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="O12_IntersectionOfArray" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="searching.easy.O12_IntersectionOfArray" />
-      <module name="Kunal-Dsa" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="searching.easy.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
+}]]></component>
+  <component name="RunManager" selected="Application.O9_DecryptStringfromAlphabettoIntegerMapping">
     <configuration name="O21_MaxProduct" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="sorting.easy.O21_MaxProduct" />
       <module name="Kunal-Dsa" />
@@ -109,6 +92,32 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="O8_DetermineifStringHalvesAreAlike" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="string.easy.O8_DetermineifStringHalvesAreAlike" />
+      <module name="Kunal-Dsa" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="string.easy.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="O9_DecryptStringfromAlphabettoIntegerMapping" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="string.easy.O9_DecryptStringfromAlphabettoIntegerMapping" />
+      <module name="Kunal-Dsa" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="string.easy.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="O9_KokoEatingBananas" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="searching.medium.O9_KokoEatingBananas" />
       <module name="Kunal-Dsa" />
@@ -124,11 +133,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.O9_DecryptStringfromAlphabettoIntegerMapping" />
+        <item itemvalue="Application.O8_DetermineifStringHalvesAreAlike" />
         <item itemvalue="Application.O21_MaxProduct" />
         <item itemvalue="Application.O6_IntersectionofTwoArraysII" />
         <item itemvalue="Application.O9_KokoEatingBananas" />
-        <item itemvalue="Application.O12_IntersectionOfArray" />
-        <item itemvalue="Application.O10_array" />
       </list>
     </recent_temporary>
   </component>
@@ -185,7 +194,8 @@
       <workItem from="1708258490801" duration="1945000" />
       <workItem from="1708265216854" duration="6963000" />
       <workItem from="1708277031432" duration="18000" />
-      <workItem from="1708404229175" duration="5943000" />
+      <workItem from="1708404229175" duration="9842000" />
+      <workItem from="1708504289044" duration="8052000" />
     </task>
     <servers />
   </component>
