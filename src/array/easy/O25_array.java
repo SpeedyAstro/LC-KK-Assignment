@@ -1,4 +1,4 @@
-package array;
+package array.easy;
 
 public class O25_array {
     public int[][] matrixReshape(int[][] mat, int r, int c) {

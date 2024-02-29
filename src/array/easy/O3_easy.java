@@ -1,4 +1,4 @@
-package array;
+package array.easy;
 //https://leetcode.com/problems/running-sum-of-1d-array/description/
 public class O3_easy {
     public int[] runningSum(int[] nums) {
