@@ -1,4 +1,4 @@
-package array;
+package array.easy;
 
 public class O26_array {
     public int[] plusOne(int[] digits) {

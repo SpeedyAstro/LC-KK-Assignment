@@ -12,5 +12,13 @@ public class CheckIfArraySorted {
         CheckIfArraySorted obj = new CheckIfArraySorted();
         int[] arr = {1, 2, 3, 4, 5};
         System.out.println(obj.isSorted(arr, arr.length));
+        System.out.println(isSorted2(arr, 0));
     }
+    static boolean isSorted2(int[] arr, int index){
+        if(index== arr.length-1){
+            return true;
+        }
+        return (arr[index] < arr[index+1]) ? false : isSorted2(arr, index+1);
+    }
+
 }

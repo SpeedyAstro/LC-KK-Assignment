@@ -4,31 +4,22 @@ import java.util.Arrays;
 
 public class O5_ProductOfArrayExceptSelf {
         public int[] productExceptSelf(int[] nums) {
-            System.out.println(Arrays.toString(nums));
-            int len = nums.length;
-            int [] left = new int[len];
-            int [] right = new int[len];
-
-            int leftProd = 1;
-            for(int i = 0; i < len; i++){
-                left[i] = leftProd;
-                leftProd *= nums[i];
+            int n = nums.length;
+            int [] res = new int[n];
+            int [] left = new int[n];
+            int [] right = new int[n];
+            left[0] = 1;
+            right[n-1] = 1;
+            for(int i = 1; i < n; i++){
+                left[i] = left[i-1] * nums[i-1];
             }
-            System.out.println(Arrays.toString(left));
-
-            int rightProd = 1;
-            for(int i = len - 1; i >= 0; i--){
-                right[i] = rightProd;
-                rightProd *= nums[i];
+            for(int i = n-2; i >= 0; i--){
+                right[i] = right[i+1] * nums[i+1];
             }
-            System.out.println(Arrays.toString(right));
-            for (int i = 0; i < len; i++){
-                nums[i] = left[i] * right[i];
+            for(int i = 0; i < n; i++){
+                res[i] = left[i] * right[i];
             }
-
-            return nums;
-
-
+            return res;
         }
 
     public static void main(String[] args) {

@@ -1,4 +1,4 @@
-package array;
+package array.easy;
 
 public class O24_array {
     public int maxSubArray(int[] nums) {

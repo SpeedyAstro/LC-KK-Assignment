@@ -1,4 +1,4 @@
-package array;
+package array.easy;
 
 public class O27_easy {
     public int removeDuplicates(int[] nums) {

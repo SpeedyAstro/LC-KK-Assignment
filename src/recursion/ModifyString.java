@@ -21,10 +21,19 @@ public class ModifyString {
         }
         return s.charAt(0)+modify(s.substring(1));
     }
+    public String removeSubstring(String s,String sub) {
+        if(s.length()==0){
+            return "";
+        }
+        if(s.startsWith(sub)){
+            return removeSubstring(s.substring(sub.length()),sub);
+        }
+        return s.charAt(0)+removeSubstring(s.substring(1),sub); 
+    }
 
     public static void main(String[] args) {
         ModifyString obj = new ModifyString();
-        System.out.println(obj.modify("papap",new StringBuilder()));
+        System.out.println(obj.modify("paaaaaaaaapap",new StringBuilder()));
         System.out.println(obj.modify("papap"));
     }
 }

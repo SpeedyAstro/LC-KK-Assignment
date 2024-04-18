@@ -1,4 +1,4 @@
-package array;
+package array.easy;
 
 public class O22_array {
     public int[] sumZero(int n) {

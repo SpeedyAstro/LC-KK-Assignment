@@ -1,2 +1,24 @@
-package StacksAndQueue;public class MinimumAddtoMakeParenthesesValid {
+package StacksAndQueue;
+
+import java.util.Stack;
+
+public class MinimumAddtoMakeParenthesesValid {
+    public int minAddToMakeValid(String s) {
+        Stack<Character> stack = new Stack<>();
+        for(char c : s.toCharArray()){
+            if(c=='('){
+                stack.push(c);
+            }
+            else if(c==')'){
+                if(!stack.isEmpty() && stack.peek()=='('){
+                    stack.pop();
+                }
+                else{
+                    stack.push(c);
+                }
+            }
+        }
+        return stack.size();
+    }
+
 }
