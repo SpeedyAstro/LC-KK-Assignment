@@ -5,96 +5,22 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="4a8dabd5-7e2a-4935-8232-45d97c2d019e" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/copilot/chatSessions/00000000000.xd" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/copilot/chatSessions/blobs/version" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/StacksAndQueue/DecodeString.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/StacksAndQueue/DesignaStackWithIncrementOperation.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/StacksAndQueue/O3_MinStack.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/StacksAndQueue/RemoveAllAdjacentDuplicatesInString.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Trees/AVL.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Trees/BFS.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Trees/BST.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Trees/BinaryTree.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Trees/DFS.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Trees/LevelAndNodes.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Trees/SegmentTree.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Trees/ques/AllNodesDistanceKinBinaryTree.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Trees/ques/AmountofTimeforBinaryTreetoBeInfected.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Trees/ques/BalancedBinaryTree.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Trees/ques/BinaryTreeInorderTraversal.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Trees/ques/BinaryTreeMaximumPathSum.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Trees/ques/BinaryTreeZigZagLevelOrderTraversal.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Trees/ques/ClosestNodesQueriesinaBinarySearchTree.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Trees/ques/ConstructBinaryTreefromPreorderandInorderTraversal.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Trees/ques/CousinsinBinaryTree.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Trees/ques/EvenOddTree.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Trees/ques/FlattenBinaryTreetoLinkedList.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Trees/ques/LevelOrderSuccorOfANode.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Trees/ques/LinkedListinBinaryTree.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Trees/ques/LongestUnivaluePath.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Trees/ques/MaximumWidthofBinaryTree.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Trees/ques/MinimumDepthofBinaryTree.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Trees/ques/PopulatingNextRightPointersinEachNode.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Trees/ques/SymmetricTree.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Trees/ques/ValidateBinaryTreeNodes.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/deleteme/MaximumSum.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/recursion/codingNinza/CalculatePower.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/recursion/codingNinza/FindIndexInArray.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/recursion/codingNinza/NumberOfDigits.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/recursion/codingNinza/PalindromString.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/recursion/codingNinza/SumOfArray.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/recursion/codingNinza/TowerOfHanoi.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/BitsManipulation/Problems.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/BitsManipulation/Util.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/graph/BFS.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/graph/DFS.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/graph/ques/DetectCycle.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/graph/ques/DetectCyclesDirected.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/graph/ques/FloodFillAlgorithm.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/graph/ques/NumberofIslands.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/graph/ques/NumberofProvinces.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/graph/ques/TopologicalSort.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/graph/ques/TopologicalSortBFS.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/hashmap/LongestConsecutiveSequence.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/copilot/chatSessions/00000000000.xd" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/copilot/chatSessions/blobs/version" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Readme.md" beforeDir="false" afterPath="$PROJECT_DIR$/Readme.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Backtracking/Maze.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Backtracking/Maze.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/LinkedList/AddTwoNumbersII.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/LinkedList/AddTwoNumbersII.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/LinkedList/ConvertBinaryNumberinaLinkedListtoInteger.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/LinkedList/ConvertBinaryNumberinaLinkedListtoInteger.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/LinkedList/DLL.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/LinkedList/DLL.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/LinkedList/DesignLinkedList.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/LinkedList/DesignLinkedList.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/LinkedList/IntersectionofTwoLinkedLists.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/LinkedList/IntersectionofTwoLinkedLists.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/LinkedList/LL.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/LinkedList/LL.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/LinkedList/LRUCache.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/LinkedList/LRUCache.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/LinkedList/MergeTwoSortedLists.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/LinkedList/MergeTwoSortedLists.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/LinkedList/PalindromeLinkedList.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/LinkedList/PalindromeLinkedList.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/LinkedList/RemoveDuplicatesfromSortedList.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/LinkedList/RemoveDuplicatesfromSortedList.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/LinkedList/RemoveDuplicatesfromSortedListII.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/LinkedList/RemoveDuplicatesfromSortedListII.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/LinkedList/RemoveLinkedListElements.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/LinkedList/RemoveLinkedListElements.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/LinkedList/RemoveNthNodeFromEndofList.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/LinkedList/RemoveNthNodeFromEndofList.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/LinkedList/ReorderList.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/LinkedList/ReorderList.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/LinkedList/ReverseLL.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/LinkedList/ReverseLL.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/LinkedList/ReverseNodesin_k_Group.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/LinkedList/ReverseNodesin_k_Group.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/LinkedList/RotateList.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/LinkedList/RotateList.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/LinkedList/SortList.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/LinkedList/SortList.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/LinkedList/SwappingNodesinaLinkedList.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/LinkedList/SwappingNodesinaLinkedList.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/StacksAndQueue/ImplementQueueusingStacks.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/StacksAndQueue/ImplementQueueusingStacks.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/StacksAndQueue/MinimumAddtoMakeParenthesesValid.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/StacksAndQueue/MinimumAddtoMakeParenthesesValid.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/StacksAndQueue/MinimumInsertionstoBalanceaParenthesesString.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/StacksAndQueue/MinimumInsertionstoBalanceaParenthesesString.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/StacksAndQueue/O1_NextGreaterElementI.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/StacksAndQueue/O1_NextGreaterElementI.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/StacksAndQueue/O2_ValidParentheses.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/StacksAndQueue/O2_ValidParentheses.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/array/easy/O10_array.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/array/easy/O10_array.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/array/easy/O18_array.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/array/easy/O18_array.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/array/easy/O22_array.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/array/easy/O22_array.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/array/easy/O23_array.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/array/easy/O23_array.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/array/easy/O24_array.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/array/easy/O24_array.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/array/easy/O26_array.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/array/easy/O26_array.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/array/easy/O27_easy.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/array/easy/O27_easy.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/array/medium/O5_ProductOfArrayExceptSelf.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/array/medium/O5_ProductOfArrayExceptSelf.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/recursion/ArraysRecursion.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/recursion/ArraysRecursion.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/recursion/CheckIfArraySorted.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/recursion/CheckIfArraySorted.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/recursion/CombinationsofaPhoneNumber.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/recursion/CombinationsofaPhoneNumber.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/recursion/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/recursion/Main.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/recursion/ModifyString.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/recursion/ModifyString.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/recursion/PatternRecursion.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/recursion/PatternRecursion.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/recursion/Permutations.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/recursion/Permutations.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/recursion/PhonePad.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/recursion/PhonePad.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/recursion/Sort.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/recursion/Sort.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/recursion/SubSeq.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/recursion/SubSeq.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/recursion/Subset.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/recursion/Subset.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/searching/easy/O13_IntersectionArrayII.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/searching/easy/O13_IntersectionArrayII.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/searching/easy/O15_CheckIfNAndItsDouble.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/searching/easy/O15_CheckIfNAndItsDouble.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/searching/medium/O5_FindMinimumInRotatedArray.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/searching/medium/O5_FindMinimumInRotatedArray.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/sorting/easy/O1_MergeSortedArray.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/sorting/easy/O1_MergeSortedArray.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Trees/ques/BinaryTreeMaximumPathSum.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Trees/ques/BinaryTreeMaximumPathSum.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -134,7 +60,7 @@
     &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
     &quot;git-widget-placeholder&quot;: &quot;main&quot;,
     &quot;ignore.virus.scanning.warn.message&quot;: &quot;true&quot;,
-    &quot;last_opened_file_path&quot;: &quot;C:/Users/pande/Downloads/aat/Tax I&quot;,
+    &quot;last_opened_file_path&quot;: &quot;C:/Users/pande/Downloads/aat/TaxEase II&quot;,
     &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
     &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
     &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
@@ -145,13 +71,26 @@
     &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
   }
 }</component>
-  <component name="RunManager" selected="Application.SubSeq">
-    <configuration name="BinaryTree" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Trees.BinaryTree" />
+  <component name="RunManager" selected="Application.DFS">
+    <configuration name="BFS" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="graph.BFS" />
       <module name="Kunal-Dsa" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Trees.*" />
+          <option name="PATTERN" value="graph.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="DFS" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="graph.DFS" />
+      <module name="Kunal-Dsa" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="graph.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -172,32 +111,6 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="PalindromString" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="recursion.codingNinza.PalindromString" />
-      <module name="Kunal-Dsa" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="recursion.codingNinza.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="SegmentTree" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Trees.SegmentTree" />
-      <module name="Kunal-Dsa" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="Trees.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
     <configuration name="SubSeq" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="recursion.SubSeq" />
       <module name="Kunal-Dsa" />
@@ -211,13 +124,26 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="Util" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="BitsManipulation.Util" />
+      <module name="Kunal-Dsa" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="BitsManipulation.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.DFS" />
+        <item itemvalue="Application.BFS" />
+        <item itemvalue="Application.Util" />
         <item itemvalue="Application.SubSeq" />
         <item itemvalue="Application.MaximumSum" />
-        <item itemvalue="Application.SegmentTree" />
-        <item itemvalue="Application.PalindromString" />
-        <item itemvalue="Application.BinaryTree" />
       </list>
     </recent_temporary>
   </component>
@@ -351,7 +277,22 @@
       <workItem from="1713278431281" duration="1713000" />
       <workItem from="1713288243804" duration="3719000" />
       <workItem from="1713323798089" duration="5108000" />
-      <workItem from="1713419246086" duration="5896000" />
+      <workItem from="1713419246086" duration="8158000" />
+      <workItem from="1713584696801" duration="7096000" />
+      <workItem from="1714365677534" duration="3351000" />
+      <workItem from="1714401022523" duration="17000" />
+      <workItem from="1714559979614" duration="3591000" />
+      <workItem from="1714751692409" duration="4108000" />
+      <workItem from="1714799880297" duration="5392000" />
+      <workItem from="1715077021318" duration="658000" />
+      <workItem from="1715151879214" duration="3042000" />
+      <workItem from="1715162320917" duration="1086000" />
+      <workItem from="1715171629385" duration="9000" />
+      <workItem from="1715238721303" duration="2074000" />
+      <workItem from="1715248309408" duration="3151000" />
+      <workItem from="1715254151824" duration="678000" />
+      <workItem from="1715768564182" duration="801000" />
+      <workItem from="1715856998187" duration="407000" />
     </task>
     <servers />
   </component>

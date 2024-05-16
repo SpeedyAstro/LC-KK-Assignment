@@ -18,8 +18,8 @@ public class BinaryTreeMaximumPathSum {
         int right = maxPathSum(root.right);
         int max = Math.max(left,right);
         max = Math.max(max,root.val+left+right);
-//        int max = Math.max(left,right);
-//        max = Math.max(max,root.val+left+right);
+//        int max = Util.max(left,right);
+//        max = Util.max(max,root.val+left+right);
         return max;
     }
 }
